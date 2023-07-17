@@ -37,12 +37,25 @@ h2 {
   font-family: "Work Sans", sans-serif;
   font-weight: 500;
   color: #fff;
+  position: relative;
 }
 
 .App-playlist {
   display: flex;
   justify-content: space-between;
   width: 100%;
+}
+
+.freepik {
+  position: absolute;
+  bottom: 15px;
+  right: 20px;
+  color: #606060;
+  font-size: 0.7rem;
+}
+.freepik a {
+  color: #606060;
+  text-decoration: none;
 }
 
 footer {

@@ -65,7 +65,18 @@ const App = () => {
             onSave={savePlaylist}
           />
         </div>
+        {/* background image by Freepik */}
+        <p className="freepik">
+          Image by{" "}
+          <a
+            href="https://www.freepik.com/free-vector/hand-drawn-minimal-background_15592646.htm"
+            target="_blank"
+          >
+            Freepik
+          </a>
+        </p>
       </div>
+
       <footer>Codecademy project by Karnjana</footer>
     </div>
   );
