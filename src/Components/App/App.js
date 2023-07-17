@@ -71,6 +71,7 @@ const App = () => {
           <a
             href="https://www.freepik.com/free-vector/hand-drawn-minimal-background_15592646.htm"
             target="_blank"
+            rel="noreferrer"
           >
             Freepik
           </a>
